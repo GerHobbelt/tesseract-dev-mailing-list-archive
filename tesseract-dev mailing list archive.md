@@ -6902,3 +6902,1939 @@ Hi, anybosy used tesseract in asp.net
 
 
 
+
+
+
+##   
+tesseract-dev
+
+[
+
+Conversations
+
+
+
+](https://groups.google.com/g/tesseract-dev)
+
+[
+
+About
+
+
+
+](https://groups.google.com/g/tesseract-dev/about)
+
+[Privacy](https://policies.google.com/privacy?hl=en) • [Terms](https://policies.google.com/terms?hl=en)
+
+# tesseract-dev
+
+Contact owners and managers
+
+1–30 of 317
+
+
+
+
+
+Welcome at tesseract-ocr developers forum.
+
+  
+
+This forum is moderated. Please be patient until your first post will be released to forum.
+
+
+
+
+
+![Pierrick Hymbert's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjU0p1DutxeIdwI-lEoT3O0PDah44xuJ0wEssjvtox_fWLY=s28-c)
+
+[Pierrick Hymbert, Zdenko Podobny3](https://groups.google.com/g/tesseract-dev/c/tQOZaxsOVm0)
+
+unread,
+
+[
+
+Cmake and unitest target
+
+Thanks for your answer: I have issued a draft PR [1] - happy to have your early feedback. Do you
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/tQOZaxsOVm0)
+
+12/17/23
+
+
+
+![Daniel F's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXkEy0ht_Oo8Pa4VI_wUvHEISAxBIXN98b9fFax5rRV=s28-c)
+
+[Daniel F, … Senthil M.K.3](https://groups.google.com/g/tesseract-dev/c/oEHTjhpdRmo)
+
+unread,
+
+[
+
+Tesseract Security Inquiry
+
+You gotta be kidding me... Have you ever heard of NIST or multiple agencies doing cyber defense for
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/oEHTjhpdRmo)
+
+2/28/23
+
+
+
+![Youssef Ahab's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjV6yJlVVrNYM-rPCy_MPt1FV7Kr_unDMBKDi-jJ6Y-wlh0=s28-c)
+
+[Youssef Ahab, Zdenko Podobny2](https://groups.google.com/g/tesseract-dev/c/RPLMsqo3Irw)
+
+unread,
+
+[
+
+LSTM Model architecture
+
+All we have is here https://github.com/tesseract-ocr/docs Maybe try to search in academic papers eg
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/RPLMsqo3Irw)
+
+2/8/23
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny, Ger Hobbelt3](https://groups.google.com/g/tesseract-dev/c/OoBUOPZtkrQ)
+
+unread,
+
+[
+
+Info messages to stdout from training utils
+
+Oh, and having those ERROR: and WARNING: prefixes for the tprintf messages makes it also pretty
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/OoBUOPZtkrQ)
+
+1/27/23
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/lI5v0NB9ZwQ)
+
+unread,
+
+[
+
+Fwd: [tesseract-ocr/tesseract] Release 5.3.0 - 5.3.0
+
+Thank you, Stefan and other contributors for this new release! Zdenko ---------- Forwarded message --
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/lI5v0NB9ZwQ)
+
+12/23/22
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/C5yvvnRVCcw)
+
+unread,
+
+[
+
+heads-up tesseract 5.3 release is comming
+
+Dear developers, A new release of tesseract 5.3 is coming soon (expected within a week). There is
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/C5yvvnRVCcw)
+
+12/14/22
+
+
+
+![Hlompho Mota's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWIgp8l8PjxRW1B4dK8kLcwn-ciNeJQRd0rey3nK3JVURU=s28-c)
+
+[Hlompho Mota, stjo...@googlemail.com2](https://groups.google.com/g/tesseract-dev/c/UiwdbxLkOj0)
+
+unread,
+
+[
+
+New to the community
+
+Welcome! Tesseract development is currently done by volunteers, and any contribution might be helpful
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/UiwdbxLkOj0)
+
+9/7/22
+
+
+
+![farhad khalafi's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXczzZAOzAS1Q3NSeTAgl6lnbWRIHeSrNeuuT5i2oHv4A=s28-c)
+
+[farhad khalafi, Zdenko Podobny2](https://groups.google.com/g/tesseract-dev/c/kCWyAjsHap8)
+
+unread,
+
+[
+
+Compiler Warnings for MinSizeRel Configuration
+
+Hello, There have been experiences that different optimization flags could affect OCR results. So
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/kCWyAjsHap8)
+
+7/11/22
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/DbyEvSq4o6o)
+
+unread,
+
+[
+
+tesseract 5.2.0 Release
+
+Hello all, I am proud to announce new release of tesseract OCR engine - version 5.2.0: Improvements
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/DbyEvSq4o6o)
+
+7/11/22
+
+
+
+![Mohammed Kamal Majeed's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjX7lNxLffjc7hzCF8mSE-KRiHiZNGf-PlxKt4rJI7lA1pA=s28-c)
+
+[Mohammed Kamal Majeed, Zdenko Podobny2](https://groups.google.com/g/tesseract-dev/c/s27HKReJnUU)
+
+unread,
+
+[
+
+Adding kur_ara language to the tesseract
+
+Create Pull request to: https://github.com/tesseract-ocr/tessdata_contrib + share your source data on
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/s27HKReJnUU)
+
+5/31/22
+
+
+
+![krzysiekj94's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjU8CG0i9AHcKSqwsZRJRMsvfev0zYKxs9DE6-7tjO0sVQ=s28-c)
+
+[krzysiekj94](https://groups.google.com/g/tesseract-dev/c/yBvbn1I5jt8)
+
+unread,
+
+[
+
+Different OCR results for the same image - file from disk vs from memory
+
+Environment Tesseract Version: 5.1.0 Platform: Windows 32-bit, compiled under MSVC 2017 Current
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/yBvbn1I5jt8)
+
+5/19/22
+
+
+
+![Charles Weld's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjV3VKeUowX4lz16rHR-dg5SC1qfjCoiJIcVKXBKf2oraMM=s28-c)
+
+[Charles Weld, Zdenko Podobny3](https://groups.google.com/g/tesseract-dev/c/hyIG9xxL820)
+
+unread,
+
+[
+
+Building tesseract 5.0.0 without optimizations (AVX etc)
+
+Thanks Zdenko, I'll reach out to some of the users of my library that have reported these issues
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/hyIG9xxL820)
+
+1/2/22
+
+
+
+![stjo...@googlemail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUH0komnnff-PH7DEHN9lAm81dMXZWJZ66_VTuk_3HG=s28-c)
+
+[stjo...@googlemail.com2](https://groups.google.com/g/tesseract-dev/c/m3I5wGCetRk)
+
+unread,
+
+[
+
+New Tesseract release 5.0.0-rc1
+
+Release 5.0.0-rc2 is now available.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/m3I5wGCetRk)
+
+11/14/21
+
+
+
+![nicole novielli's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXi4JptHwp8WYcF46ciMlEAMMhOfWdT1eLL--pkPGN5-k8=s28-c)
+
+[nicole novielli](https://groups.google.com/g/tesseract-dev/c/BJNT4NGjW9o)
+
+unread,
+
+[
+
+[academic study] how do OSS developers respond to such phenomena as partially or wrongly implemented functionality?
+
+Hello, We're a team of Software Engineering researchers investigating technical debt. Technical
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/BJNT4NGjW9o)
+
+9/20/21
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/vE5jsfIavqE)
+
+unread,
+
+[
+
+Renaming default branch from "master" to "main"
+
+Hi all, Just a friendly warning: If you are for whatever reason using the latest code from git, be
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/vE5jsfIavqE)
+
+9/14/21
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/lgCSgiZZWDE)
+
+unread,
+
+[
+
+Tesseract 5 beta
+
+Hello all, The current tesseract master code[1] was tagged as beta and there is intention to finalize
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/lgCSgiZZWDE)
+
+8/17/21
+
+
+
+![Robert Pösel's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjX2cFRyOa7zazW3OckNkHmSzLxLx-mVwaDhxcjlBhnp=s28-c)
+
+[Robert Pösel, Zdenko Podobny3](https://groups.google.com/g/tesseract-dev/c/Bo-l3-QoOWM)
+
+unread,
+
+[
+
+Reason for ANDROID_BUILD preprocessor variable?
+
+Okay, I prepared the PR to remove it then :) https://github.com/tesseract-ocr/tesseract/pull/3230
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Bo-l3-QoOWM)
+
+1/14/21
+
+
+
+![Jean-Luc Arvers's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUQt-fhRaHD-X9HDYqpBP5SsZBqArlgtOdluBgPtbVI=s28-c)
+
+[Jean-Luc Arvers](https://groups.google.com/g/tesseract-dev/c/U42-QZAcF14)
+
+unread,
+
+[
+
+Hyphen and punctuation in output ALTO
+
+Hello: Is it possible to have an ALTO output with the inclusion of hyphens at the end of the line? At
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/U42-QZAcF14)
+
+9/18/20
+
+
+
+![Brad Windsor's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjW3fn7Z7k89YnH76hM8oNwP0aNpVT8WPYRgKECdNUuM3z4=s28-c)
+
+[Brad Windsor](https://groups.google.com/g/tesseract-dev/c/dNmhwSzoKXQ)
+
+unread,
+
+[
+
+BERT-based Models for Next Version?
+
+Hi folks! First off, great library, super useful. Wanted to ask if there had been any discussions on
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/dNmhwSzoKXQ)
+
+9/10/20
+
+
+
+![Andrew None's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWjEWrDJVg8POZvjXlJjAO8Psoeu9z2cEE1hyCKndy9=s28-c)
+
+[Andrew None, Stefan Weil2](https://groups.google.com/g/tesseract-dev/c/Js2Hy22d1B0)
+
+unread,
+
+[
+
+Planing data for stable version or release candidate
+
+Git master ("5.0.0 last") is stable, so I suggest to try that instead of 4.1.1. There is no
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Js2Hy22d1B0)
+
+8/3/20
+
+
+
+![Robin Watts's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWpN9WbP2bP1n-IoqbQKquMdy2L_sz7JrXIwz8C-ISL=s28-c)
+
+[Robin Watts, Stefan Weil4](https://groups.google.com/g/tesseract-dev/c/WnQXagdDQ1E)
+
+unread,
+
+[
+
+intsimdmatrix: float vs double
+
+Thanks. Rolling the biasing into the SIMD is a clear win, so I have code that does that. It builds
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/WnQXagdDQ1E)
+
+5/19/20
+
+
+
+![Alexander Serebrenik's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXvgVMPyEXh9IS-AM66z5dTvr1_7L6PgGkmAw5mzQ4MGno=s28-c)
+
+[Alexander Serebrenik](https://groups.google.com/g/tesseract-dev/c/VDOQEeWJjkQ)
+
+unread,
+
+[
+
+Study on annotation of design and implementation choices, and of technical debt
+
+Dear all, As software engineering research teams at the University of Sannio (Italy) and Eindhoven
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/VDOQEeWJjkQ)
+
+3/16/20
+
+
+
+![Stefan Weil's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUH0komnnff-PH7DEHN9lAm81dMXZWJZ66_VTuk_3HG=s28-c)
+
+[Stefan Weil](https://groups.google.com/g/tesseract-dev/c/3jJuI8yXZQ4)
+
+unread,
+
+[
+
+Tesseract Wiki replaced by GitHub Pages
+
+The Tesseract Wiki is no longer supported. See https://github.com/tesseract-ocr/tesseract/issues/2873
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/3jJuI8yXZQ4)
+
+2/6/20
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/hYKk8tTh63U)
+
+unread,
+
+[
+
+Fwd: [DanBloomberg/leptonica] Release 1.79.0 - Leptonica version 1.79.0
+
+FYI, Zdenko ---------- Forwarded message --------- Od: Dan Bloomberg <notifi...@github.com>
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/hYKk8tTh63U)
+
+1/2/20
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/QRSs4EhHTs8)
+
+unread,
+
+[
+
+tesseract-ocr 4.1.1 release
+
+Hello all, Stable version of tesseract-ocr engine 4.1.1 was released today [1] . This is bugfix
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/QRSs4EhHTs8)
+
+12/26/19
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/S5g8JS90lmw)
+
+unread,
+
+[
+
+Make ready of 4.1.1 release
+
+Hello, I would like to release bugfix version of tesseract 4.1.1 [1] until end of this year AFAIK I
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/S5g8JS90lmw)
+
+12/20/19
+
+
+
+![Dave Wood's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjU6WpaIwOjWvJ2980rm3f3DQTUZYUef7P0FHum37zo23fg=s28-c)
+
+[Dave Wood2](https://groups.google.com/g/tesseract-dev/c/Em1CfM7Lge4)
+
+unread,
+
+[
+
+Issue with Multiple Character Choices in Output Stream
+
+Hello all: I understand that Tesseract is open source and therefore there is no obligation for anyone
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Em1CfM7Lge4)
+
+11/28/19
+
+
+
+![David Maung's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXFFEhTjnhgkln14QrTpGtuAQHvsoTcTgXHANCbmZ-m=s28-c)
+
+[David Maung, Zdenko Podobny5](https://groups.google.com/g/tesseract-dev/c/KxzB0erp2JI)
+
+unread,
+
+[
+
+Would like to contribute small change to expose --ptsize option to tesstrain.sh
+
+I did it! Thank you. On Friday, November 1, 2019 at 2:39:48 PM UTC-4, Zdenko Podobný wrote: No. you
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/KxzB0erp2JI)
+
+11/1/19
+
+
+
+![Stefan Weil's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUH0komnnff-PH7DEHN9lAm81dMXZWJZ66_VTuk_3HG=s28-c)
+
+[Stefan Weil, Zdenko Podobny5](https://groups.google.com/g/tesseract-dev/c/T5esnseEIOM)
+
+unread,
+
+[
+
+Enhance Tesseract logging?
+
+I started a new section in the Wiki (Planning), so we can collect all ideas and suggestions there.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/T5esnseEIOM)
+
+10/15/19
+
+
+
+![Stefan Weil's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUH0komnnff-PH7DEHN9lAm81dMXZWJZ66_VTuk_3HG=s28-c)
+
+[Stefan Weil, … ShreeDevi Kumar4](https://groups.google.com/g/tesseract-dev/c/36HxFdSsQqM)
+
+unread,
+
+[
+
+Training Tesseract LSTM from real images
+
+In the meantime ocrd-train was moved to https://github.com/tesseract-ocr/tesstrain/.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/36HxFdSsQqM)
+
+10/3/19
+
+
+
+
+
+
+
+
+##   
+tesseract-dev
+
+[
+
+Conversations
+
+
+
+](https://groups.google.com/g/tesseract-dev)
+
+[
+
+About
+
+
+
+](https://groups.google.com/g/tesseract-dev/about)
+
+[Privacy](https://policies.google.com/privacy?hl=en) • [Terms](https://policies.google.com/terms?hl=en)
+
+# tesseract-dev
+
+Contact owners and managers
+
+1–30 of 317
+
+
+
+
+
+Welcome at tesseract-ocr developers forum.
+
+  
+
+This forum is moderated. Please be patient until your first post will be released to forum.
+
+
+
+
+
+![Pierrick Hymbert's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjU0p1DutxeIdwI-lEoT3O0PDah44xuJ0wEssjvtox_fWLY=s28-c)
+
+[Pierrick Hymbert, Zdenko Podobny3](https://groups.google.com/g/tesseract-dev/c/tQOZaxsOVm0)
+
+unread,
+
+[
+
+Cmake and unitest target
+
+Thanks for your answer: I have issued a draft PR [1] - happy to have your early feedback. Do you
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/tQOZaxsOVm0)
+
+12/17/23
+
+
+
+![Daniel F's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXkEy0ht_Oo8Pa4VI_wUvHEISAxBIXN98b9fFax5rRV=s28-c)
+
+[Daniel F, … Senthil M.K.3](https://groups.google.com/g/tesseract-dev/c/oEHTjhpdRmo)
+
+unread,
+
+[
+
+Tesseract Security Inquiry
+
+You gotta be kidding me... Have you ever heard of NIST or multiple agencies doing cyber defense for
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/oEHTjhpdRmo)
+
+2/28/23
+
+
+
+![Youssef Ahab's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjV6yJlVVrNYM-rPCy_MPt1FV7Kr_unDMBKDi-jJ6Y-wlh0=s28-c)
+
+[Youssef Ahab, Zdenko Podobny2](https://groups.google.com/g/tesseract-dev/c/RPLMsqo3Irw)
+
+unread,
+
+[
+
+LSTM Model architecture
+
+All we have is here https://github.com/tesseract-ocr/docs Maybe try to search in academic papers eg
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/RPLMsqo3Irw)
+
+2/8/23
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny, Ger Hobbelt3](https://groups.google.com/g/tesseract-dev/c/OoBUOPZtkrQ)
+
+unread,
+
+[
+
+Info messages to stdout from training utils
+
+Oh, and having those ERROR: and WARNING: prefixes for the tprintf messages makes it also pretty
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/OoBUOPZtkrQ)
+
+1/27/23
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/lI5v0NB9ZwQ)
+
+unread,
+
+[
+
+Fwd: [tesseract-ocr/tesseract] Release 5.3.0 - 5.3.0
+
+Thank you, Stefan and other contributors for this new release! Zdenko ---------- Forwarded message --
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/lI5v0NB9ZwQ)
+
+12/23/22
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/C5yvvnRVCcw)
+
+unread,
+
+[
+
+heads-up tesseract 5.3 release is comming
+
+Dear developers, A new release of tesseract 5.3 is coming soon (expected within a week). There is
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/C5yvvnRVCcw)
+
+12/14/22
+
+
+
+![Hlompho Mota's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWIgp8l8PjxRW1B4dK8kLcwn-ciNeJQRd0rey3nK3JVURU=s28-c)
+
+[Hlompho Mota, stjo...@googlemail.com2](https://groups.google.com/g/tesseract-dev/c/UiwdbxLkOj0)
+
+unread,
+
+[
+
+New to the community
+
+Welcome! Tesseract development is currently done by volunteers, and any contribution might be helpful
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/UiwdbxLkOj0)
+
+9/7/22
+
+
+
+![farhad khalafi's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXczzZAOzAS1Q3NSeTAgl6lnbWRIHeSrNeuuT5i2oHv4A=s28-c)
+
+[farhad khalafi, Zdenko Podobny2](https://groups.google.com/g/tesseract-dev/c/kCWyAjsHap8)
+
+unread,
+
+[
+
+Compiler Warnings for MinSizeRel Configuration
+
+Hello, There have been experiences that different optimization flags could affect OCR results. So
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/kCWyAjsHap8)
+
+7/11/22
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/DbyEvSq4o6o)
+
+unread,
+
+[
+
+tesseract 5.2.0 Release
+
+Hello all, I am proud to announce new release of tesseract OCR engine - version 5.2.0: Improvements
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/DbyEvSq4o6o)
+
+7/11/22
+
+
+
+![Mohammed Kamal Majeed's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjX7lNxLffjc7hzCF8mSE-KRiHiZNGf-PlxKt4rJI7lA1pA=s28-c)
+
+[Mohammed Kamal Majeed, Zdenko Podobny2](https://groups.google.com/g/tesseract-dev/c/s27HKReJnUU)
+
+unread,
+
+[
+
+Adding kur_ara language to the tesseract
+
+Create Pull request to: https://github.com/tesseract-ocr/tessdata_contrib + share your source data on
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/s27HKReJnUU)
+
+5/31/22
+
+
+
+![krzysiekj94's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjU8CG0i9AHcKSqwsZRJRMsvfev0zYKxs9DE6-7tjO0sVQ=s28-c)
+
+[krzysiekj94](https://groups.google.com/g/tesseract-dev/c/yBvbn1I5jt8)
+
+unread,
+
+[
+
+Different OCR results for the same image - file from disk vs from memory
+
+Environment Tesseract Version: 5.1.0 Platform: Windows 32-bit, compiled under MSVC 2017 Current
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/yBvbn1I5jt8)
+
+5/19/22
+
+
+
+![Charles Weld's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjV3VKeUowX4lz16rHR-dg5SC1qfjCoiJIcVKXBKf2oraMM=s28-c)
+
+[Charles Weld, Zdenko Podobny3](https://groups.google.com/g/tesseract-dev/c/hyIG9xxL820)
+
+unread,
+
+[
+
+Building tesseract 5.0.0 without optimizations (AVX etc)
+
+Thanks Zdenko, I'll reach out to some of the users of my library that have reported these issues
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/hyIG9xxL820)
+
+1/2/22
+
+
+
+![stjo...@googlemail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUH0komnnff-PH7DEHN9lAm81dMXZWJZ66_VTuk_3HG=s28-c)
+
+[stjo...@googlemail.com2](https://groups.google.com/g/tesseract-dev/c/m3I5wGCetRk)
+
+unread,
+
+[
+
+New Tesseract release 5.0.0-rc1
+
+Release 5.0.0-rc2 is now available.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/m3I5wGCetRk)
+
+11/14/21
+
+
+
+![nicole novielli's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXi4JptHwp8WYcF46ciMlEAMMhOfWdT1eLL--pkPGN5-k8=s28-c)
+
+[nicole novielli](https://groups.google.com/g/tesseract-dev/c/BJNT4NGjW9o)
+
+unread,
+
+[
+
+[academic study] how do OSS developers respond to such phenomena as partially or wrongly implemented functionality?
+
+Hello, We're a team of Software Engineering researchers investigating technical debt. Technical
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/BJNT4NGjW9o)
+
+9/20/21
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/vE5jsfIavqE)
+
+unread,
+
+[
+
+Renaming default branch from "master" to "main"
+
+Hi all, Just a friendly warning: If you are for whatever reason using the latest code from git, be
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/vE5jsfIavqE)
+
+9/14/21
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/lgCSgiZZWDE)
+
+unread,
+
+[
+
+Tesseract 5 beta
+
+Hello all, The current tesseract master code[1] was tagged as beta and there is intention to finalize
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/lgCSgiZZWDE)
+
+8/17/21
+
+
+
+![Robert Pösel's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjX2cFRyOa7zazW3OckNkHmSzLxLx-mVwaDhxcjlBhnp=s28-c)
+
+[Robert Pösel, Zdenko Podobny3](https://groups.google.com/g/tesseract-dev/c/Bo-l3-QoOWM)
+
+unread,
+
+[
+
+Reason for ANDROID_BUILD preprocessor variable?
+
+Okay, I prepared the PR to remove it then :) https://github.com/tesseract-ocr/tesseract/pull/3230
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Bo-l3-QoOWM)
+
+1/14/21
+
+
+
+![Jean-Luc Arvers's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUQt-fhRaHD-X9HDYqpBP5SsZBqArlgtOdluBgPtbVI=s28-c)
+
+[Jean-Luc Arvers](https://groups.google.com/g/tesseract-dev/c/U42-QZAcF14)
+
+unread,
+
+[
+
+Hyphen and punctuation in output ALTO
+
+Hello: Is it possible to have an ALTO output with the inclusion of hyphens at the end of the line? At
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/U42-QZAcF14)
+
+9/18/20
+
+
+
+![Brad Windsor's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjW3fn7Z7k89YnH76hM8oNwP0aNpVT8WPYRgKECdNUuM3z4=s28-c)
+
+[Brad Windsor](https://groups.google.com/g/tesseract-dev/c/dNmhwSzoKXQ)
+
+unread,
+
+[
+
+BERT-based Models for Next Version?
+
+Hi folks! First off, great library, super useful. Wanted to ask if there had been any discussions on
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/dNmhwSzoKXQ)
+
+9/10/20
+
+
+
+![Andrew None's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWjEWrDJVg8POZvjXlJjAO8Psoeu9z2cEE1hyCKndy9=s28-c)
+
+[Andrew None, Stefan Weil2](https://groups.google.com/g/tesseract-dev/c/Js2Hy22d1B0)
+
+unread,
+
+[
+
+Planing data for stable version or release candidate
+
+Git master ("5.0.0 last") is stable, so I suggest to try that instead of 4.1.1. There is no
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Js2Hy22d1B0)
+
+8/3/20
+
+
+
+![Robin Watts's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWpN9WbP2bP1n-IoqbQKquMdy2L_sz7JrXIwz8C-ISL=s28-c)
+
+[Robin Watts, Stefan Weil4](https://groups.google.com/g/tesseract-dev/c/WnQXagdDQ1E)
+
+unread,
+
+[
+
+intsimdmatrix: float vs double
+
+Thanks. Rolling the biasing into the SIMD is a clear win, so I have code that does that. It builds
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/WnQXagdDQ1E)
+
+5/19/20
+
+
+
+![Alexander Serebrenik's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXvgVMPyEXh9IS-AM66z5dTvr1_7L6PgGkmAw5mzQ4MGno=s28-c)
+
+[Alexander Serebrenik](https://groups.google.com/g/tesseract-dev/c/VDOQEeWJjkQ)
+
+unread,
+
+[
+
+Study on annotation of design and implementation choices, and of technical debt
+
+Dear all, As software engineering research teams at the University of Sannio (Italy) and Eindhoven
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/VDOQEeWJjkQ)
+
+3/16/20
+
+
+
+![Stefan Weil's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUH0komnnff-PH7DEHN9lAm81dMXZWJZ66_VTuk_3HG=s28-c)
+
+[Stefan Weil](https://groups.google.com/g/tesseract-dev/c/3jJuI8yXZQ4)
+
+unread,
+
+[
+
+Tesseract Wiki replaced by GitHub Pages
+
+The Tesseract Wiki is no longer supported. See https://github.com/tesseract-ocr/tesseract/issues/2873
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/3jJuI8yXZQ4)
+
+2/6/20
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/hYKk8tTh63U)
+
+unread,
+
+[
+
+Fwd: [DanBloomberg/leptonica] Release 1.79.0 - Leptonica version 1.79.0
+
+FYI, Zdenko ---------- Forwarded message --------- Od: Dan Bloomberg <notifi...@github.com>
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/hYKk8tTh63U)
+
+1/2/20
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/QRSs4EhHTs8)
+
+unread,
+
+[
+
+tesseract-ocr 4.1.1 release
+
+Hello all, Stable version of tesseract-ocr engine 4.1.1 was released today [1] . This is bugfix
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/QRSs4EhHTs8)
+
+12/26/19
+
+
+
+![Zdenko Podobny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobny](https://groups.google.com/g/tesseract-dev/c/S5g8JS90lmw)
+
+unread,
+
+[
+
+Make ready of 4.1.1 release
+
+Hello, I would like to release bugfix version of tesseract 4.1.1 [1] until end of this year AFAIK I
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/S5g8JS90lmw)
+
+12/20/19
+
+
+
+![Dave Wood's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjU6WpaIwOjWvJ2980rm3f3DQTUZYUef7P0FHum37zo23fg=s28-c)
+
+[Dave Wood2](https://groups.google.com/g/tesseract-dev/c/Em1CfM7Lge4)
+
+unread,
+
+[
+
+Issue with Multiple Character Choices in Output Stream
+
+Hello all: I understand that Tesseract is open source and therefore there is no obligation for anyone
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Em1CfM7Lge4)
+
+11/28/19
+
+
+
+![David Maung's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXFFEhTjnhgkln14QrTpGtuAQHvsoTcTgXHANCbmZ-m=s28-c)
+
+[David Maung, Zdenko Podobny5](https://groups.google.com/g/tesseract-dev/c/KxzB0erp2JI)
+
+unread,
+
+[
+
+Would like to contribute small change to expose --ptsize option to tesstrain.sh
+
+I did it! Thank you. On Friday, November 1, 2019 at 2:39:48 PM UTC-4, Zdenko Podobný wrote: No. you
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/KxzB0erp2JI)
+
+11/1/19
+
+
+
+![Stefan Weil's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUH0komnnff-PH7DEHN9lAm81dMXZWJZ66_VTuk_3HG=s28-c)
+
+[Stefan Weil, Zdenko Podobny5](https://groups.google.com/g/tesseract-dev/c/T5esnseEIOM)
+
+unread,
+
+[
+
+Enhance Tesseract logging?
+
+I started a new section in the Wiki (Planning), so we can collect all ideas and suggestions there.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/T5esnseEIOM)
+
+10/15/19
+
+
+
+![Stefan Weil's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUH0komnnff-PH7DEHN9lAm81dMXZWJZ66_VTuk_3HG=s28-c)
+
+[Stefan Weil, … ShreeDevi Kumar4](https://groups.google.com/g/tesseract-dev/c/36HxFdSsQqM)
+
+unread,
+
+[
+
+Training Tesseract LSTM from real images
+
+In the meantime ocrd-train was moved to https://github.com/tesseract-ocr/tesstrain/.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/36HxFdSsQqM)
+
+10/3/19
+
+
+
+
+
+
+
+##   
+tesseract-dev
+
+[
+
+Conversations
+
+99+
+
+
+
+](https://groups.google.com/g/tesseract-dev)
+
+[
+
+Members
+
+
+
+](https://groups.google.com/g/tesseract-dev/members)
+
+[
+
+About
+
+
+
+](https://groups.google.com/g/tesseract-dev/about)
+
+[
+
+My membership settings
+
+
+
+](https://groups.google.com/g/tesseract-dev/membership)
+
+[Privacy](https://policies.google.com/privacy?hl=en) • [Terms](https://policies.google.com/terms?hl=en)
+
+# tesseract-dev
+
+1552 members
+
+1–30 of 317
+
+
+
+
+
+Welcome at tesseract-ocr developers forum.
+
+  
+
+This forum is moderated. Please be patient until your first post will be released to forum.
+
+
+
+
+
+![pierrick...@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjU0p1DutxeIdwI-lEoT3O0PDah44xuJ0wEssjvtox_fWLY=s28-c)
+
+[pierrick...@gmail.com, Zdenko Podobný3](https://groups.google.com/g/tesseract-dev/c/tQOZaxsOVm0)
+
+unread,
+
+[
+
+Cmake and unitest target
+
+Thanks for your answer: I have issued a draft PR [1] - happy to have your early feedback. Do you
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/tQOZaxsOVm0)
+
+12/17/23
+
+
+
+![df87...@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXkEy0ht_Oo8Pa4VI_wUvHEISAxBIXN98b9fFax5rRV=s28-c)
+
+[df87...@gmail.com, … smuru...@gmail.com3](https://groups.google.com/g/tesseract-dev/c/oEHTjhpdRmo)
+
+[
+
+Tesseract Security Inquiry
+
+You gotta be kidding me... Have you ever heard of NIST or multiple agencies doing cyber defense for
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/oEHTjhpdRmo)
+
+2/28/23
+
+
+
+![Youssef Ahab's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[Youssef Ahab, Zdenko Podobný2](https://groups.google.com/g/tesseract-dev/c/RPLMsqo3Irw)
+
+[
+
+LSTM Model architecture
+
+All we have is here https://github.com/tesseract-ocr/docs Maybe try to search in academic papers eg
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/RPLMsqo3Irw)
+
+2/8/23
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný, Ger Hobbelt3](https://groups.google.com/g/tesseract-dev/c/OoBUOPZtkrQ)
+
+[
+
+Info messages to stdout from training utils
+
+Oh, and having those ERROR: and WARNING: prefixes for the tprintf messages makes it also pretty
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/OoBUOPZtkrQ)
+
+1/27/23
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný](https://groups.google.com/g/tesseract-dev/c/lI5v0NB9ZwQ)
+
+[
+
+Fwd: [tesseract-ocr/tesseract] Release 5.3.0 - 5.3.0
+
+Thank you, Stefan and other contributors for this new release! Zdenko ---------- Forwarded message --
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/lI5v0NB9ZwQ)
+
+12/23/22
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný](https://groups.google.com/g/tesseract-dev/c/C5yvvnRVCcw)
+
+unread,
+
+[
+
+heads-up tesseract 5.3 release is comming
+
+Dear developers, A new release of tesseract 5.3 is coming soon (expected within a week). There is
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/C5yvvnRVCcw)
+
+12/14/22
+
+
+
+![hmk...@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWIgp8l8PjxRW1B4dK8kLcwn-ciNeJQRd0rey3nK3JVURU=s28-c)
+
+[hmk...@gmail.com, stjo...@googlemail.com2](https://groups.google.com/g/tesseract-dev/c/UiwdbxLkOj0)
+
+unread,
+
+[
+
+New to the community
+
+Welcome! Tesseract development is currently done by volunteers, and any contribution might be helpful
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/UiwdbxLkOj0)
+
+9/7/22
+
+
+
+![farhad....@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXczzZAOzAS1Q3NSeTAgl6lnbWRIHeSrNeuuT5i2oHv4A=s28-c)
+
+[farhad....@gmail.com, Zdenko Podobný2](https://groups.google.com/g/tesseract-dev/c/kCWyAjsHap8)
+
+[
+
+Compiler Warnings for MinSizeRel Configuration
+
+Hello, There have been experiences that different optimization flags could affect OCR results. So
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/kCWyAjsHap8)
+
+7/11/22
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný](https://groups.google.com/g/tesseract-dev/c/DbyEvSq4o6o)
+
+unread,
+
+[
+
+tesseract 5.2.0 Release
+
+Hello all, I am proud to announce new release of tesseract OCR engine - version 5.2.0: Improvements
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/DbyEvSq4o6o)
+
+7/11/22
+
+
+
+![moxamma...@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjX7lNxLffjc7hzCF8mSE-KRiHiZNGf-PlxKt4rJI7lA1pA=s28-c)
+
+[moxamma...@gmail.com, Zdenko Podobný2](https://groups.google.com/g/tesseract-dev/c/s27HKReJnUU)
+
+unread,
+
+[
+
+Adding kur_ara language to the tesseract
+
+Create Pull request to: https://github.com/tesseract-ocr/tessdata_contrib + share your source data on
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/s27HKReJnUU)
+
+5/31/22
+
+
+
+![krzysiekj94's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[krzysiekj94](https://groups.google.com/g/tesseract-dev/c/yBvbn1I5jt8)
+
+[
+
+Different OCR results for the same image - file from disk vs from memory
+
+Environment Tesseract Version: 5.1.0 Platform: Windows 32-bit, compiled under MSVC 2017 Current
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/yBvbn1I5jt8)
+
+5/19/22
+
+
+
+![charle...@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjV3VKeUowX4lz16rHR-dg5SC1qfjCoiJIcVKXBKf2oraMM=s28-c)
+
+[charle...@gmail.com, Zdenko Podobný3](https://groups.google.com/g/tesseract-dev/c/hyIG9xxL820)
+
+unread,
+
+[
+
+Building tesseract 5.0.0 without optimizations (AVX etc)
+
+Thanks Zdenko, I'll reach out to some of the users of my library that have reported these issues
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/hyIG9xxL820)
+
+1/2/22
+
+
+
+![stjo...@googlemail.com's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[stjo...@googlemail.com2](https://groups.google.com/g/tesseract-dev/c/m3I5wGCetRk)
+
+unread,
+
+[
+
+New Tesseract release 5.0.0-rc1
+
+Release 5.0.0-rc2 is now available.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/m3I5wGCetRk)
+
+11/14/21
+
+
+
+![nicole....@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXi4JptHwp8WYcF46ciMlEAMMhOfWdT1eLL--pkPGN5-k8=s28-c)
+
+[nicole....@gmail.com](https://groups.google.com/g/tesseract-dev/c/BJNT4NGjW9o)
+
+unread,
+
+[
+
+[academic study] how do OSS developers respond to such phenomena as partially or wrongly implemented functionality?
+
+Hello, We're a team of Software Engineering researchers investigating technical debt. Technical
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/BJNT4NGjW9o)
+
+9/20/21
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný](https://groups.google.com/g/tesseract-dev/c/vE5jsfIavqE)
+
+unread,
+
+[
+
+Renaming default branch from "master" to "main"
+
+Hi all, Just a friendly warning: If you are for whatever reason using the latest code from git, be
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/vE5jsfIavqE)
+
+9/14/21
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný](https://groups.google.com/g/tesseract-dev/c/lgCSgiZZWDE)
+
+unread,
+
+[
+
+Tesseract 5 beta
+
+Hello all, The current tesseract master code[1] was tagged as beta and there is intention to finalize
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/lgCSgiZZWDE)
+
+8/17/21
+
+
+
+![po...@adaptech.cz's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjX2cFRyOa7zazW3OckNkHmSzLxLx-mVwaDhxcjlBhnp=s28-c)
+
+[po...@adaptech.cz, Zdenko Podobný3](https://groups.google.com/g/tesseract-dev/c/Bo-l3-QoOWM)
+
+unread,
+
+[
+
+Reason for ANDROID_BUILD preprocessor variable?
+
+Okay, I prepared the PR to remove it then :) https://github.com/tesseract-ocr/tesseract/pull/3230
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Bo-l3-QoOWM)
+
+1/14/21
+
+
+
+![jeanluc...@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUQt-fhRaHD-X9HDYqpBP5SsZBqArlgtOdluBgPtbVI=s28-c)
+
+[jeanluc...@gmail.com](https://groups.google.com/g/tesseract-dev/c/U42-QZAcF14)
+
+unread,
+
+[
+
+Hyphen and punctuation in output ALTO
+
+Hello: Is it possible to have an ALTO output with the inclusion of hyphens at the end of the line? At
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/U42-QZAcF14)
+
+9/18/20
+
+
+
+![bwind...@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjW3fn7Z7k89YnH76hM8oNwP0aNpVT8WPYRgKECdNUuM3z4=s28-c)
+
+[bwind...@gmail.com](https://groups.google.com/g/tesseract-dev/c/dNmhwSzoKXQ)
+
+[
+
+BERT-based Models for Next Version?
+
+Hi folks! First off, great library, super useful. Wanted to ask if there had been any discussions on
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/dNmhwSzoKXQ)
+
+9/10/20
+
+
+
+![won8...@gmail.com's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWjEWrDJVg8POZvjXlJjAO8Psoeu9z2cEE1hyCKndy9=s28-c)
+
+[won8...@gmail.com, stjo...@googlemail.com2](https://groups.google.com/g/tesseract-dev/c/Js2Hy22d1B0)
+
+unread,
+
+[
+
+Planing data for stable version or release candidate
+
+Git master ("5.0.0 last") is stable, so I suggest to try that instead of 4.1.1. There is no
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Js2Hy22d1B0)
+
+8/3/20
+
+
+
+![robin...@artifex.com's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[robin...@artifex.com, stjo...@googlemail.com4](https://groups.google.com/g/tesseract-dev/c/WnQXagdDQ1E)
+
+unread,
+
+[
+
+intsimdmatrix: float vs double
+
+Thanks. Rolling the biasing into the SIMD is a clear win, so I have code that does that. It builds
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/WnQXagdDQ1E)
+
+5/19/20
+
+
+
+![Alexander Serebrenik's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXvgVMPyEXh9IS-AM66z5dTvr1_7L6PgGkmAw5mzQ4MGno=s28-c)
+
+[Alexander Serebrenik](https://groups.google.com/g/tesseract-dev/c/VDOQEeWJjkQ)
+
+[
+
+Study on annotation of design and implementation choices, and of technical debt
+
+Dear all, As software engineering research teams at the University of Sannio (Italy) and Eindhoven
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/VDOQEeWJjkQ)
+
+3/16/20
+
+
+
+![stjo...@googlemail.com's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[stjo...@googlemail.com](https://groups.google.com/g/tesseract-dev/c/3jJuI8yXZQ4)
+
+unread,
+
+[
+
+Tesseract Wiki replaced by GitHub Pages
+
+The Tesseract Wiki is no longer supported. See https://github.com/tesseract-ocr/tesseract/issues/2873
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/3jJuI8yXZQ4)
+
+2/6/20
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný](https://groups.google.com/g/tesseract-dev/c/hYKk8tTh63U)
+
+[
+
+Fwd: [DanBloomberg/leptonica] Release 1.79.0 - Leptonica version 1.79.0
+
+FYI, Zdenko ---------- Forwarded message --------- Od: Dan Bloomberg <notifi...@github.com>
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/hYKk8tTh63U)
+
+1/2/20
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný](https://groups.google.com/g/tesseract-dev/c/QRSs4EhHTs8)
+
+unread,
+
+[
+
+tesseract-ocr 4.1.1 release
+
+Hello all, Stable version of tesseract-ocr engine 4.1.1 was released today [1] . This is bugfix
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/QRSs4EhHTs8)
+
+12/26/19
+
+
+
+![Zdenko Podobný's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUjcMhAhC_xmJ-4qUJs3HlbaCLSRYC8DeuLQVKUWKG2=s28-c)
+
+[Zdenko Podobný](https://groups.google.com/g/tesseract-dev/c/S5g8JS90lmw)
+
+[
+
+Make ready of 4.1.1 release
+
+Hello, I would like to release bugfix version of tesseract 4.1.1 [1] until end of this year AFAIK I
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/S5g8JS90lmw)
+
+12/20/19
+
+
+
+![wood.jo...@gmail.com's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[wood.jo...@gmail.com2](https://groups.google.com/g/tesseract-dev/c/Em1CfM7Lge4)
+
+[
+
+Issue with Multiple Character Choices in Output Stream
+
+Hello all: I understand that Tesseract is open source and therefore there is no obligation for anyone
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/Em1CfM7Lge4)
+
+11/28/19
+
+
+
+![davidm...@gmail.com's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[davidm...@gmail.com, Zdenko Podobný5](https://groups.google.com/g/tesseract-dev/c/KxzB0erp2JI)
+
+unread,
+
+[
+
+Would like to contribute small change to expose --ptsize option to tesstrain.sh
+
+I did it! Thank you. On Friday, November 1, 2019 at 2:39:48 PM UTC-4, Zdenko Podobný wrote: No. you
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/KxzB0erp2JI)
+
+11/1/19
+
+
+
+![stjo...@googlemail.com's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[stjo...@googlemail.com, Zdenko Podobný5](https://groups.google.com/g/tesseract-dev/c/T5esnseEIOM)
+
+unread,
+
+[
+
+Enhance Tesseract logging?
+
+I started a new section in the Wiki (Planning), so we can collect all ideas and suggestions there.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/T5esnseEIOM)
+
+10/15/19
+
+
+
+![stjo...@googlemail.com's profile photo](https://lh3.googleusercontent.com/a/default-user=s28-c)
+
+[stjo...@googlemail.com, … ShreeDevi Kumar4](https://groups.google.com/g/tesseract-dev/c/36HxFdSsQqM)
+
+unread,
+
+[
+
+Training Tesseract LSTM from real images
+
+In the meantime ocrd-train was moved to https://github.com/tesseract-ocr/tesstrain/.
+
+
+
+](https://groups.google.com/g/tesseract-dev/c/36HxFdSsQqM)
+
+10/3/19
+
+
+
+
+
+
+
+tesseract-dev - Google Groups
